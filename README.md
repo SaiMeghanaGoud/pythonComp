@@ -1,0 +1,2 @@
+# pythonComp
+Competitive Python Coding
